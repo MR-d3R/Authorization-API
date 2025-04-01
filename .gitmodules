@@ -1,0 +1,7 @@
+[submodule "configurator"]
+	path = configurator
+	url = https://github.com/mv-tools/micro_service_config_modul.git
+    
+[submodule "logger"]
+	path = logger
+	url = https://github.com/mv-tools/logger.git
